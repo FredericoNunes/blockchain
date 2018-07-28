@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/dvf/blockchain.svg?branch=master)](https://travis-ci.org/dvf/blockchain)
 
-Código fonte do port em [Building a Blockchain](https://medium.com/p/117428612f46). 
+Código fonte em [Building a Blockchain](https://medium.com/p/117428612f46). 
 
 ## Instalação
 
