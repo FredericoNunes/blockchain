@@ -7,20 +7,20 @@ Código fonte do port em [Building a Blockchain](https://medium.com/p/117428612f
 
 ## Instalação
 
-1. Certifique-se [Python 3.6+](https://www.python.org/downloads/) is installed. 
+1. Certifique-se de que o [Python 3.6+](https://www.python.org/downloads/) está instalado. 
 2. Install [pipenv](https://github.com/kennethreitz/pipenv). 
 
 ```
 $ pip install pipenv 
 ```
 
-3. Crie um _virtual environment_ (ambiente virtual) e específiquea versão do Python python. 
+3. Crie um _virtual environment_ (ambiente virtual) e específique a versão do Python. 
 
 ```
 $ pipenv --python=python3.6
 ```
 
-4. Instalar os requerimentos.  
+4. Instalar os requerimentos. 
 
 ```
 $ pipenv install 
