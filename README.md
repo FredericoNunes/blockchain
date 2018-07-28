@@ -8,7 +8,7 @@ Código fonte em [Building a Blockchain](https://medium.com/p/117428612f46).
 ## Instalação
 
 1. Certifique-se de que o [Python 3.6+](https://www.python.org/downloads/) está instalado. 
-2. Install [pipenv](https://github.com/kennethreitz/pipenv). 
+2. Instale o [pipenv](https://github.com/kennethreitz/pipenv). 
 
 ```
 $ pip install pipenv 
